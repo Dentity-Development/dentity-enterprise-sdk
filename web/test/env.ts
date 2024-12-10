@@ -49,5 +49,5 @@ export function setTestTimeout(timeoutMs: number = 40000) {
 }
 
 export function myEcosystemIdOrName(): string {
-    return "integration-tests";
+    return "default";
 }
